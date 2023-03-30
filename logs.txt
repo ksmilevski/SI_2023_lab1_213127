@@ -1,0 +1,22 @@
+commit cf305530823d6143c9b94d3919915bf77c2c18ff (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Kiril Smilevski <ksmilevski6@gmail.com>
+Date:   Fri Mar 24 16:36:07 2023 +0100
+
+    Fix method sumEvenNumbrs
+
+commit 81fa0375e7c5e1a03fda8d47801f7c30d45b5541
+Merge: d472df4 5b5d45a
+Author: Kiril Smilevski <ksmilevski6@gmail.com>
+Date:   Thu Mar 30 09:34:44 2023 +0200
+
+    merge branch bug2 with master
+
+commit 5b5d45a7a49c1b9a258ab825537a905964dc72f9 (origin/bug2, bug2)
+Author: Kiril Smilevski <ksmilevski6@gmail.com>
+Date:   Fri Mar 24 16:32:23 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit d472df4fca6ff3c8c12a0f07ee5f2690c357ec9a (origin/bug1, bug1)
+Author: Kiril Smilevski <ksmilevski6@gmail.com>
+Date:   Fri Mar 24 15:18:48 2023 +0100
